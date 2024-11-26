@@ -1,0 +1,9 @@
+{
+    "name": "@netblink/nb-prettier",
+    "version": "1.0.0",
+    "description": "Netblink Prettier config",
+    "main": "index.json",
+    "repository": "git@github.com:NetBlink/nb-prettier.git",
+    "author": "Lukasz Tlalka <lukasz.tlalka@netblink.net>",
+    "license": "MIT"
+}
